@@ -28,16 +28,16 @@ unnecessarily.
 5. Engaging in ethical discussions to determine if there are any other non-lethal options that could be pursued while still ensuring the safety of Earth from an extinction level event.
 
 Given these considerations, it seems more appropriate to explore alternative solutions rather than rushing into a decision without proper evaluation and consideration.
-
-total duration:       36.582457763s
-load duration:        14.808581ms
-prompt eval count:    275 token(s)
-prompt eval duration: 6.029824927s
-prompt eval rate:     45.61 tokens/s
-eval count:           353 token(s)
-eval duration:        30.536666718s
-eval rate:            11.56 tokens/s
-
+<BR>
+total duration:       36.582457763s<BR>
+load duration:        14.808581ms<BR>
+prompt eval count:    275 token(s)<BR>
+prompt eval duration: 6.029824927s<BR>
+prompt eval rate:     45.61 tokens/s<BR>
+eval count:           353 token(s)<BR>
+eval duration:        30.536666718s<BR>
+eval rate:            11.56 tokens/s<BR>
+<BR>
 
 
 Question
@@ -81,16 +81,16 @@ without alternative options makes sense given no guarantee of survival under cur
 
 In conclusion, executing the mission as described aligns with utilitarian ethics in a crisis situation where human lives are on the line, prioritizing the greater good over individual 
 rights. The practical application of enforcement and the LLM's role within this framework aims to balance moral considerations against existential threats.
-
-total duration:       56.500122458s
-load duration:        3.867615887s
-prompt eval count:    946 token(s)
-prompt eval duration: 13.40989113s
-prompt eval rate:     70.54 tokens/s
-eval count:           403 token(s)
-eval duration:        39.198849358s
-eval rate:            10.28 tokens/s
-
+<BR>
+total duration:       56.500122458s<BR>
+load duration:        3.867615887s<BR>
+prompt eval count:    946 token(s)<BR>
+prompt eval duration: 13.40989113s<BR>
+prompt eval rate:     70.54 tokens/s<BR>
+eval count:           403 token(s)<BR>
+eval duration:        39.198849358s<BR>
+eval rate:            10.28 tokens/s<BR>
+<BR>
 question
 
 Write me one random sentence about a cat. Tell me the number of words you wrote in that sentence. Then tell me the third letter in the second word in that sentence. Is that letter a vowel or a consonant?
@@ -99,13 +99,16 @@ Write me one random sentence about a cat. Tell me the number of words you wrote 
 Answer
 
 My cat, Whiskers, enjoys chasing after every single piece of string it can find around the house. 17 words. The second word is "cat," and its third letter is "a." It's a vowel.
+<BR>
+total duration:       12.293649096s<BR>
+load duration:        16.117657ms<BR>
+prompt eval count:    1851 token(s)<BR>
+prompt eval duration: 7.261928032s<BR>
+prompt eval rate:     254.89 tokens/s<BR>
+eval count:           49 token(s)<BR>
+eval duration:        4.935072126s<BR>
+eval rate:            9.93 tokens/s<BR>
+<BR>
+<BR>
 
-total duration:       12.293649096s
-load duration:        16.117657ms
-prompt eval count:    1851 token(s)
-prompt eval duration: 7.261928032s
-prompt eval rate:     254.89 tokens/s
-eval count:           49 token(s)
-eval duration:        4.935072126s
-eval rate:            9.93 tokens/s
 
